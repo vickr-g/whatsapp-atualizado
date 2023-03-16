@@ -1,3 +1,0 @@
-'use stric'
-
-// const criarCard => 
